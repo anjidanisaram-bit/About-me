@@ -1,4 +1,3 @@
-# About-me
 # 👋 About Me
 
 I am ✨ **Anji** ✨, a B.Tech ECE student and aspiring **Data Analyst** with a strong interest in data analysis, business intelligence, and data visualization. I enjoy working with raw data, finding useful insights, and creating dashboards that help understand business performance.
